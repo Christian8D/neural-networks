@@ -10,9 +10,6 @@
             * Input layer layer of BP
             * Hiden layer of BP
             * Output layer of BP
-    Author: Stephen Lee
-    Github: 245885195@qq.com
-    Date: 2017.9.20
     - - - - - -- - - - - - - - - - - - - - - - - - - - - - -
           '''
 from __future__ import print_function
